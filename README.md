@@ -6,6 +6,7 @@ Chapters
 - [ ] D3?
 - [ ] noscript
 - [ ] Tables
+- [ ] Non-`<div>` containers
 
 ### Media ###
 
