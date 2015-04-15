@@ -1,8 +1,8 @@
 Fall-backs
 ==========
-- [ ] Responsive images
-- [ ] SVG
-- [ ] D3?
+- [ ] Responsive images
+- [ ] SVG
+- [ ] D3?
 - [ ] noscript
 - [ ] Tables
 
