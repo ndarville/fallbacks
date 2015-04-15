@@ -6,7 +6,7 @@ Fall-backs
 - [ ] noscript
 - [ ] Tables
 - [ ] Video
-- [ ] GIFs/animated images
+- [ ] GIFs/animated images
 - [ ] Audio
 
 Browsers
