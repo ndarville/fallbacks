@@ -1,11 +1,17 @@
 Fall-backs
 ==========
-- [ ] Responsive images
-- [ ] SVG
+
+Chapters
+--------
 - [ ] D3?
 - [ ] noscript
 - [ ] Tables
-- [ ] Video
+
+### Media ###
+
+- [ ] Responsive images
+- [ ] SVG
+- [ ] Video (w/ captions)
 - [ ] GIFs/animated images
 - [ ] Audio
 
