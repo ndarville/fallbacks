@@ -5,6 +5,9 @@ Fall-backs
 - [ ] D3?
 - [ ] noscript
 - [ ] Tables
+- [ ] Video
+- [ ] GIFs/animated images
+- [ ] Audio
 
 Browsers
 --------
