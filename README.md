@@ -41,7 +41,7 @@ Chapters
 
 ### D3 ###
 
-- CSS3 transitions **(IE9)**
+- CSS3 transitions *(IE9)*
 - [Selectors][]
 - [SVG][d3-svg]
 - Various [JavaScript functions][js-functions]
