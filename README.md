@@ -1,6 +1,13 @@
 Fallbacks
 =========
 
+Browsers
+--------
+* IE9+
+* Firefox
+* Chrome
+* Safari (Mac, iOS)
+
 Chapters
 --------
 - [ ] Tables
@@ -38,13 +45,6 @@ Chapters
 - [Selectors][]
 - [SVG][d3-svg]
 - Various [JavaScript functions][js-functions]
-
-Browsers
---------
-* IE9+
-* Firefox
-* Chrome
-* Safari (Mac, iOS)
 
 <IE9
 ----
