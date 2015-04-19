@@ -61,7 +61,7 @@ Browsers
 
 [flexbox]: http://html5please.com/#flexbox
 [noscript]: http://www.w3.org/html/wg/drafts/html/CR/scripting-1.html#the-noscript-element
-[icon fonts]: http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
+[icon-fonts]: http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
 [non-div]: /non-div/
 
 [selectors]: http://sizzlejs.com/
