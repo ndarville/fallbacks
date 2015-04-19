@@ -5,12 +5,12 @@ Chapters
 --------
 - [ ] Tables
     - Mobile
-- [ ] [Flexbox][]
+- [ ] _[Flexbox][]
     - <https://dev.opera.com/articles/flexbox-basics/>
     - <https://dev.opera.com/articles/advanced-cross-browser-flexbox/>
     - <https://dev.opera.com/articles/animating-flexboxes-the-lowdown/>
 - [ ] [Icon fonts][icon-fonts]
-- [ ] [noscript][]
+- [ ] _[noscript][]
 - [ ] CSS3 transitions
 - [ ] CSS gradients
 - [ ] @font-face
