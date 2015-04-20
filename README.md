@@ -12,6 +12,7 @@ Chapters
 --------
 - [ ] Tables
     - Mobile
+- [ ] Opacity
 - [ ] _[Flexbox][]
     - <https://dev.opera.com/articles/flexbox-basics/>
     - <https://dev.opera.com/articles/advanced-cross-browser-flexbox/>
@@ -21,6 +22,8 @@ Chapters
 - [ ] CSS3 transitions
 - [ ] CSS gradients
 - [ ] @font-face
+- [ ] _[Centering][]
+    - Use flexbox with fall-back
 
 ### Media ###
 
@@ -61,6 +64,7 @@ Chapters
 
 [flexbox]: http://html5please.com/#flexbox
 [noscript]: http://www.w3.org/html/wg/drafts/html/CR/scripting-1.html#the-noscript-element
+[centering]: http://howtocenterincss.com
 [icon-fonts]: http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html
 [non-div]: /non-div/
 
