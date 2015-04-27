@@ -22,7 +22,7 @@ Chapters
 - [ ] CSS3 transitions
 - [ ] CSS gradients
 - [ ] @font-face
-- [ ] _[Centering][]
+- [ ] _[Centering][]
     - Use flexbox with fall-back
 
 ### Media ###
